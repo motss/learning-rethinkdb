@@ -1,4 +1,6 @@
 # learning-rethinkdb
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/motss/learning-rethinkdb.svg)](https://greenkeeper.io/)
 A custom package to output greetings.
 
 ## How to use
